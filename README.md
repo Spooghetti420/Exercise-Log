@@ -13,11 +13,11 @@ I don't know how many I've done already, and I've done tiny amounts of exercise 
 before starting this journal, so I figured I should start from zero and get counting!
 
 # Table
-| **Level**           | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---------------------|---|---|---|---|---|---|---|---|---|----|
-| Push-ups            | 0 |   |   |   |   |   |   |   |   |    |
-| Pull-ups            | 0 |   |   |   |   |   |   |   |   |    |
-| Squats              | 0 |   |   |   |   |   |   |   |   |    |
-| Leg raises          | 0 |   |   |   |   |   |   |   |   |    |
-| Bridge              | 0 |   |   |   |   |   |   |   |   |    |
-| Handstand push-ups  | 0 |   |   |   |   |   |   |   |   |    |
+| **Level**           |  1      | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---------------------|---------|---|---|---|---|---|---|---|---|----|
+| Push-ups            |  `0050` |   |   |   |   |   |   |   |   |    |
+| Pull-ups            |  `0150` |   |   |   |   |   |   |   |   |    |
+| Squats              |  `0015` |   |   |   |   |   |   |   |   |    |
+| Leg raises          |  `0020` |   |   |   |   |   |   |   |   |    |
+| Bridge              |  `0000` |   |   |   |   |   |   |   |   |    |
+| Handstand push-ups  |  `0000` |   |   |   |   |   |   |   |   |    |
